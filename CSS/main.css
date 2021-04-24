@@ -1,0 +1,20 @@
+@charset "UTF-8"
+.hea{
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-style: italic;
+    color: orange;}
+    .p{
+    font-size: large;
+    font-family: sans-serif;
+    font-style: italic;
+    color: green;}
+    .h{
+    font-size: x-large;
+    font-family: sans-serif;
+    font-style: italic;
+    color: blue;}
+    
+    a:-webkit-any-link{
+        text-decoration: none;
+        color: green;}
